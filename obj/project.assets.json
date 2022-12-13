@@ -10502,26 +10502,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tiago\\.nuget\\packages\\": {}
+    "C:\\Users\\SENAI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Downloads\\##_Aprendizagem2022\\1857-AM2-DesenvolvimentodeAPI\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\SENAI\\Documents\\Nova pasta\\apiAM2_2022\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\Tiago\\Downloads\\##_Aprendizagem2022\\1857-AM2-DesenvolvimentodeAPI\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Downloads\\##_Aprendizagem2022\\1857-AM2-DesenvolvimentodeAPI\\api\\obj\\",
+      "projectPath": "C:\\Users\\SENAI\\Documents\\Nova pasta\\apiAM2_2022\\api.csproj",
+      "packagesPath": "C:\\Users\\SENAI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SENAI\\Documents\\Nova pasta\\apiAM2_2022\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\SENAI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
